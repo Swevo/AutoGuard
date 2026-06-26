@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/AutoGuard/AutoGuard.csproj" />
+  <Project Path="tests/AutoGuard.Tests/AutoGuard.Tests.csproj" />
+</Solution>
