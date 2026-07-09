@@ -1,5 +1,10 @@
 # Swevo.AutoGuard
 
+[![NuGet](https://img.shields.io/nuget/v/Swevo.AutoGuard.svg)](https://www.nuget.org/packages/Swevo.AutoGuard)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Swevo.AutoGuard.svg)](https://www.nuget.org/packages/Swevo.AutoGuard)
+[![CI](https://github.com/Swevo/AutoGuard/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/AutoGuard/actions/workflows/build.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Compile-time guard clauses for .NET.
 
 Apply `[AutoGuard]` to a partial class with a primary constructor, then decorate constructor parameters with guard attributes:
